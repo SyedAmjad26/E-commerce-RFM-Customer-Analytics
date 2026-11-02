@@ -52,6 +52,13 @@ DAX was utilized to ensure cross-filtering worked correctly across the relationa
     ```
 
 ## Dashboard Features
+<img width="1092" height="682" alt="page-1-Revenue" src="https://github.com/user-attachments/assets/75391e30-8565-469d-8a92-8773db6fffe9" />
+<img width="1093" height="683" alt="page-1-Customer" src="https://github.com/user-attachments/assets/cbd0fa2d-ddc7-482d-97f4-e2703b4130bc" />
+<img width="1097" height="685" alt="page-2-rfm-segment" src="https://github.com/user-attachments/assets/46ae6342-3f2f-4114-94e8-a9a77ad70856" />
+<img width="1093" height="685" alt="page-2-rfm-country" src="https://github.com/user-attachments/assets/c74daa88-a33b-4648-985d-adfb8b72377a" />
+
+
+
 *   **Bookmark Navigation:** Implemented UI toggles to switch seamlessly between Revenue-focused and Customer-focused analytics on a single page without breaking cross-filtering states.
 *   **Diverging Churn Visualization:** Engineered DAX-driven column charts that force "Lost" customer volumes below the zero-baseline, providing immediate visual contrast between retained and churned accounts.
 *   **Dynamic Time-Series Filtering:** Integrated hierarchical date slicers (Year, Quarter, Month) to allow stakeholders to interactively drill down into historical churn rates, segment growth, and average customer value.
